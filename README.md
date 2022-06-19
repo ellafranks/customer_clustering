@@ -1,17 +1,3 @@
-# Data Scientist Interview
-
-We’re looking to see how you would approach a Customer Clustering problem and have provided a sample dataset for you to
-explore and potentially produce a working prototype.
-
-You will need to present your thoughts and approach on this back to us where we are looking at what you produced in the
-prototype, understanding of the dataset, and your thoughts to a long term approach and options moving forward.
-
-Your model should be developed in a Jupyter notebook and emailed to us before the interview. You will be asked to walk us through your notebook.
-
-This is intended as a few hours within an evening and we do not expect you to spend significant time on this.
-
-**Please do not publish the dataset privately or publicly**
-
 ### Considerations:
 - What Logic based approaches, ML, Deep learning options are there?
 - What a long term option may look like and how would an iterative approach to delivering look like
